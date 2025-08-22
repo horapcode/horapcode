@@ -1,15 +1,20 @@
-<div align="center" style="background: linear-gradient(135deg, #06b6d4 0%, #3b82f6 100%); padding: 60px 20px; border-radius: 20px; margin-bottom: 30px;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;I'm+Ho+Huu+Huy!;Fullstack+Developer" style="margin-bottom: 20px;"/>
-  
-  <div style="margin-top: 20px;">
-    <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge&logo=dev.to&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Location-Viet%20Nam-red?style=for-the-badge&logo=google-maps&logoColor=white"/>
-  </div>
-</div>
-
 <div align="center">
-<img alt="Coding Animation" width="320" height="320" style="border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.1); border: 3px solid #06b6d4;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+# 👋 Hi, I'm Ho Huu Huy  
+### 🚀 Fullstack Developer | 💻 React, .NET, NestJS, SQL Server, MongoDB  
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Passionate+about+Fullstack+Development;Love+clean+code+and+scalable+systems;Always+learning+new+technologies" alt="Typing SVG" />
+
+---
+
+### 🌍 Status & Focus  
+![Status](https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=for-the-badge)  
+![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge)  
+![Location](https://img.shields.io/badge/Location-Viet%20Nam-red?style=for-the-badge)  
+
+---
+
+<!--     <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="400" alt="Coding Animation" /> -->
 </div>
 
 ---
