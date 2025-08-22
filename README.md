@@ -1,17 +1,56 @@
-<!-- Banner -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ho+Huu+Huy!;+FullStack+Developer" />
-</h1>
+<div align="center" style="background: linear-gradient(135deg, #06b6d4 0%, #3b82f6 100%); padding: 60px 20px; border-radius: 20px; margin-bottom: 30px;">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;I'm+Ho+Huu+Huy!;Fullstack+Developer" style="margin-bottom: 20px;"/>
+  
+  <div style="margin-top: 20px;">
+    <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge&logo=dev.to&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Location-Viet%20Nam-red?style=for-the-badge&logo=google-maps&logoColor=white"/>
+  </div>
+</div>
+
+<div align="center">
+<img alt="Coding Animation" width="320" height="320" style="border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.1); border: 3px solid #06b6d4;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+</div>
 
 ---
 
-## 🍋 About Me
-- 🔭 I'm currently working as a **Software Developer**
-- 🌱 I'm currently learning **Spring Boot, React, React Native**
-- 💡 Interested in **FullStack Development & Cloud**
-- 📍 From Vietnam 🇻🇳
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+# 💫 About Me
+
+<div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 25px; border-radius: 15px; border-left: 5px solid #06b6d4; margin: 20px 0;">
+
+### 👨‍💻 Fullstack Developer  
+
+Sinh viên **CNTT - Đại học Sư Phạm Kỹ Thuật Đà Nẵng**  
+Đam mê xây dựng **web app toàn diện**, từ frontend UI đến backend logic.  
 
 ---
+
+### 🎯 Mission  
+Tạo ra các sản phẩm **thân thiện với người dùng** và **hệ thống mạnh mẽ, dễ mở rộng**.
+
+### 🛠️ Core Expertise  
+- **Frontend:** React, Material UI, TailwindCSS  
+- **Backend:** C#, .NET, NestJS, Node.js  
+- **Database:** SQL Server, MongoDB  
+- **DevOps:** Docker, GitHub Actions  
+
+---
+
+### 🌱 Current Focus  
+- Microservices Architecture  
+- System Design & Security  
+- Performance Optimization  
+
+</div>
+
+</td>
+<td width="50%" valign="top">
 
 ## 🛠️ Languages and Tools
 
