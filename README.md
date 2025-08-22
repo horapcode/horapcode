@@ -47,9 +47,10 @@
 ---
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/h%E1%BB%93-h%E1%BB%AFu-huy-812192349/))
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/yourprofile](https://www.facebook.com/hohuuhuy205/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/h%E1%BB%93-h%E1%BB%AFu-huy-812192349/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hohuuhuy205/)
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)](https://github.com/horapcode)
+
 
 <!-- # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=horapcode&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
