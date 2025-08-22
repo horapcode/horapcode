@@ -67,8 +67,6 @@
 
 ---
 
-## 📈 Activity Graph
-[![Huy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=horapcode&theme=radical)](https://github.com/horapcode/github-readme-activity-graph)
 
 ---
 
