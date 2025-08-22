@@ -5,19 +5,18 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Passionate+about+Fullstack+Development;Love+clean+code+and+scalable+systems;Always+learning+new+technologies" alt="Typing SVG" />
 
----
 
-### 🌍 Status & Focus  
+ 
+
+<!--   ### 🌍 Status & Focus  
 ![Status](https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=for-the-badge)  
 ![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge)  
-![Location](https://img.shields.io/badge/Location-Viet%20Nam-red?style=for-the-badge)  
-
+![Location](https://img.shields.io/badge/Location-Viet%20Nam-red?style=for-the-badge)     /> -->
 ---
 
 <!--     <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="400" alt="Coding Animation" /> -->
 </div>
 
----
 
 <div align="center">
 
